@@ -27173,7 +27173,7 @@ const MainView = ()=>{
             "title": "The Grand Budapest Hotel",
             "description": "An unconventional adaptation of writer Zweig's memoir 'The World of Yesterday' and director Wes Andersons own personal experiences. The film has it's own original story but retains the central thrus of the memoir. The Grand Budapest Hotel is the story of a writer who encounters the owner of an aging high-class hotel, and tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
             "featured": true,
-            "imageUrl": "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel#/media/File:The_Grand_Budapest_Hotel.png"
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNOHUcSNyZKwXjwgftXnfvn4aI1E2h1O6MXHSMYNJX7As14HzO"
         },
         {
             "genre": {
@@ -27190,7 +27190,7 @@ const MainView = ()=>{
             "title": "Everything Everywhere All at Once",
             "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
             "featured": true,
-            "imageUrl": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once#/media/File:Everything_Everywhere_All_at_Once.jpg"
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHXnPFszcpNapxaCWUSBl3LZezeb-9X_HUKcefCmNZfbPZzmZ5"
         },
         {
             "genre": {
@@ -27243,7 +27243,7 @@ const MainView = ()=>{
         columnNumber: 9
     }, undefined);
 };
-_s(MainView, "UBw8zfb8W8YAA/cBTt58AwxMqiw=");
+_s(MainView, "egeoaHCjYLa1ovByGmYfV8pPNos=");
 _c = MainView;
 var _c;
 $RefreshReg$(_c, "MainView");
