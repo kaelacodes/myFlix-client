@@ -27207,7 +27207,7 @@ const MainView = ()=>{
             "title": "The Menu",
             "description": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menue, with some shocking surprises.",
             "featured": true,
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Menu_%282022_film%29.jpg"
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyGfaq_CxtDKrG2VqcvCmfcLfRFD5yWCQ1xouW6Q-oLqnU7Tjg"
         }
     ]);
     const [selectedMovie, setSelectedMovie] = (0, _react.useState)(null);
@@ -27243,7 +27243,7 @@ const MainView = ()=>{
         columnNumber: 9
     }, undefined);
 };
-_s(MainView, "egeoaHCjYLa1ovByGmYfV8pPNos=");
+_s(MainView, "Vvz72zYUrqhW8Fg073ib+lJBHtU=");
 _c = MainView;
 var _c;
 $RefreshReg$(_c, "MainView");

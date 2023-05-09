@@ -53,7 +53,7 @@ export const MainView = () => {
             "title": "The Menu",
             "description": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menue, with some shocking surprises.",
             "featured": true,
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Menu_%282022_film%29.jpg"
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyGfaq_CxtDKrG2VqcvCmfcLfRFD5yWCQ1xouW6Q-oLqnU7Tjg"
         }
     ]);
 
